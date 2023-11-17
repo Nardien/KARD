@@ -20,7 +20,7 @@ python -m pip install -r requirements.txt
 Follow below steps to setup the dataset for training.
 
 1. Download the raw dataset from [this link](https://drive.google.com/file/d/16Niskw2zcvyIdeRUEB2yjU2QQFy2wN3W/view?usp=share_link).
-2. Download the rationales from the teacher language model (ChatGPT) from [this link](https://drive.google.com/file/d/1kHsG9gg2ijhPGWPLi0IPmwDw1fZy0h4Q/view?usp=sharing).
+2. Download the rationales from the teacher language model (ChatGPT) from [this link](https://drive.google.com/file/d/1tRBSLf9BeRyrsK4g2M-lRTR56OuJCt6E/view?usp=sharing).
 3. Run `python preprocess_cot.py --dataset {medqa_usmle_hf,strategyqa,obqa}`
 4. Run `python preprocess_cot_grounded.py --dataset {medqa_usmle_hf,strategyqa,obqa} --knowledge_base {wikipedia,pubmed}`
 
