@@ -71,6 +71,11 @@ You can adjust the following hyperparmeters:
 
 Please feel free to leave it on Issues if you find any problems.
 
+## Disclaimer
+
+This is not an official product of KRAFTON.
+This repository is intended solely for research purposes.
+
 
 ## Citation
 If you found this work useful, please cite our work.
