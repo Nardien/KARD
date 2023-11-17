@@ -59,7 +59,7 @@ python generate_predict.py --checkpoint_path "/path/to/checkpoint/" --retriever_
 
 If you train both the LM and reranker following the code above, run the code as follows:
 ```bash
-python generate_predict.py --checkpoint_path "./save/flan-t5-base/medqa/kard_wikipedia" --retriever_type {sparse,dense} --dataset {medqa_usmle_hf,strategyqa,obqa} --dense_retriever_path "./reranker/save/colbert_lr1e-4"
+python generate_predict.py --checkpoint_path "./save/flan-t5-base/medqa/kard_wikipedia" --retriever_type dense --dataset medqa_usmle_hf --dense_retriever_path "./reranker/save/colbert_lr1e-4"
 ```
 
 You can adjust the following hyperparmeters:
