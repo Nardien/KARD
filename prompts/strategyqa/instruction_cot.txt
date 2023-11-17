@@ -1,0 +1,1 @@
+The following are multiple-choice questions. Solve them in a step-by-step fashion. Output a single option as the final answer.

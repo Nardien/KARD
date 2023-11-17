@@ -1,0 +1,11 @@
+torch==1.12.1
+datasets
+transformers
+matplotlib
+termcolor
+pyserini
+evaluate
+nltk
+rouge-score
+accelerate
+wandb

@@ -1,0 +1,5 @@
+Is Mixed martial arts totally original from Roman Colosseum games?\nA: yes\nB: no\nAnswer:B
+Is the cuisine of Hawaii suitable for a vegan?\nA: yes\nB: no\nAnswer:B
+Is capturing giant squid in natural habitat impossible with no gear?\nA: yes\nB: no\nAnswer:A
+Did the Royal Air Force fight in the Boxer Rebellion?\nA: yes\nB: no\nAnswer:B
+Would someone in Mumbai refer to Solanum melongena as an eggplant?\nA: yes\nB: no\nAnswer:B
