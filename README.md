@@ -2,7 +2,7 @@
 
 Official Code Repository for the paper [Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-intensive Tasks](https://arxiv.org/abs/2305.18395) (NeurIPS 2023).
 
-In this repository, we initially provide the trainig code with our KARD method.
+In this repository, we initially provide the preprocessing, trainig, and inference code with our KARD method.
 
 
 ## Abstract
